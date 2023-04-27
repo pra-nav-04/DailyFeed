@@ -8,7 +8,7 @@
             </p>
         </li>
         <li>
-            <p>Our Website uses Machine Learning Algorithm like Support Vector Machine for classifying the category of the News.
+            <p>This Website uses Machine Learning Algorithm like Support Vector Machine for classifying the category of the News.
             </p>
         </li>
         <li>
@@ -38,5 +38,4 @@
   `Terminal 2 :- celery -A personalized_nfg  beat -l info`
   
   `Terminal 3 :- celery -A personalized_nfg  worker -l info`
-  
-<a href="https://youtu.be/qd0yf6q7L4E">Demo</a> <br>
+  <br>
