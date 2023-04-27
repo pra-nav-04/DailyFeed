@@ -1,4 +1,4 @@
-# Personalized_News_Feed_Generator_Using_Django
+# DailyFeed
   ![](image1.png)
   ![](image2.png)
   
